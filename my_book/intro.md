@@ -7,7 +7,7 @@ structured.
 Here is a note!
 :::
 
-And here is a code block:
+And here is a code block that we are going to look at:
 
 ```
 e = mc^2
