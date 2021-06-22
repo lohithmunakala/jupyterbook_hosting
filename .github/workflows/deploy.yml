@@ -33,7 +33,7 @@ jobs:
 
     # Deploy the book's HTML to gh-pages branch
     - name: GitHub Pages action
-      uses: lohithmunakala/jupyterbook_hosting
+      uses: lohithmunakala/jupyterbook_hosting@v3.6.1
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: my_book/_build/html
